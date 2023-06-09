@@ -682,7 +682,7 @@ h3 {
 .section_title h3 {
   font-size: 55px;
   font-weight: 400;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   color: #234262;
 }
 
@@ -1351,7 +1351,7 @@ h3 {
 /* line 20, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
   color: #234262;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   font-size: 75px;
   font-weight: 400;
   line-height: 1.16;
@@ -2656,7 +2656,7 @@ h3 {
   color: #fff;
   font-weight: 400;
   margin-bottom: 0;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   text-transform: capitalize;
 }
 
@@ -2748,7 +2748,7 @@ h3 {
 .popular_program_area .single__program .program__content h4 {
   font-size: 25px;
   color: #232637;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   margin-top: 23px;
 }
@@ -2971,7 +2971,7 @@ h3 {
 .recent_news_area .single__news .news_info h4 {
   font-size: 25px;
   line-height: 1.4;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   color: #234262;
   margin-bottom: 31px;
 }
@@ -3075,7 +3075,7 @@ h3 {
 /* line 16, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_event.scss */
 .recent_event_area .single_event .date span {
   font-size: 58px;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   line-height: 1;
   margin-bottom: 7px;
@@ -3113,7 +3113,7 @@ h3 {
 /* line 40, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_event.scss */
 .recent_event_area .single_event .event_info h4 {
   font-size: 30px;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   color: #234262;
   margin-bottom: 15px;
 }
@@ -3230,7 +3230,7 @@ h3 {
   font-weight: 400;
   margin-bottom: 0;
   line-height: 1;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
 }
 
 /* line 114, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_event.scss */
@@ -3277,7 +3277,7 @@ h3 {
 /* line 137, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_event.scss */
 .event_details_area .single_event .event_details_info .event_info h4 {
   font-size: 30px;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   color: #234262;
   margin-bottom: 15px;
 }
@@ -3529,7 +3529,7 @@ h3 {
   font-size: 25px;
   line-height: 1.4;
   color: #fff;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   margin-top: 22px;
 }
 
@@ -3632,7 +3632,7 @@ h3 {
 
 /* line 192, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_course.scss */
 .admission_area .admission_form h3 {
-  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   font-size: 55px;
   margin-bottom: 40px;
