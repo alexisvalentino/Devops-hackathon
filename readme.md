@@ -1,4 +1,4 @@
-<h1>1st place 🔥<h1>
+<h1>1st Place 🔥 Devops Hackathon Challenge AMA Research Competition 2023 Event partnered with Accenture<h1>
 <h2>Problem statement</h2>
 </p>Develop a DevOps solution for a college campus-based web application that allows students to register for courses/activities (or something similar). The application can be be built using any front end technologies with optional backend technologies (node.js Express.js, MongoDB). The goal of this hackathon is to automate the build, test, and deployment processess of the application using popular Devops tools and practice.
 <p>https://accentureuniversity.vercel.app</p>
